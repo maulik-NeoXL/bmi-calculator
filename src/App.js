@@ -1,11 +1,11 @@
 import React from 'react'
 
-function App() {
+export default function App() {
   return (
-    <div className='app'>
-      <h1 className='text-2xl'> Hello </h1>
+    <div className='bg-black border border-red-700'>
+         <h1 className='text-xs'> Hello</h1>
+      <p> World </p>
     </div>
   );
 }
 
-export default App;
