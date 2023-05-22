@@ -69,9 +69,9 @@ export default function App() {
                                     <p> {message}</p>
                                   </div>
                  
-                 <div className='text-center'>
-                                    <img height={'20px'} src={imgSrc} alt={''}/>
-                                  </div>
+                 {/*<div className='text-center'>*/}
+                 {/*                   <img height={'20px'} src={imgSrc} alt={''}/>*/}
+                 {/*                 </div>*/}
                </div>
     </div>
   )
